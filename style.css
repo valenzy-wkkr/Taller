@@ -6,13 +6,6 @@ body{
    padding: 0; 
 }
 
-header{
-    background-color: cadetblue;
-    color: white;
-    text-align: center;
-    padding: 1rem;
-}
-
 .flex-container{
     display: flex;
     justify-content: space-around;
